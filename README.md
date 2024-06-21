@@ -1,1 +1,1 @@
-# data-cleaning-mysql [project]
+# Data Cleaning with MySQL [Project]
